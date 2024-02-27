@@ -1,0 +1,36 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+dist-electron
+release
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+venv/*
+
+extraResources/whisper/*.exe
+extraResources/whisper-gpu/*.exe
+extraResources/whisper/build-darwin-arm64/
+extraResources/whisper/build-darwin-arm64-coreml/
+extraResources/whisper/build-darwin-x64/
+extraResources/whisper/build-win32-x64/
+extraResources/whisper/build-win32-x64-gpu/
