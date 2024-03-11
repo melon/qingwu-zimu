@@ -56,6 +56,6 @@ npm run dev
 
 ## 2.Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=melon/qingwu-zimu&type=Date)](https://star-history.com/#melon/qingwu-zimu&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=melon/qingwu-zimu&type=Date)](https://api.star-history.com/svg?repos=melon/qingwu-zimu&type=Date)
 
 
