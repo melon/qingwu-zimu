@@ -58,4 +58,12 @@ npm run dev
 
 [![Star History Chart](https://api.star-history.com/svg?repos=melon/qingwu-zimu&type=Date)](https://api.star-history.com/svg?repos=melon/qingwu-zimu&type=Date)
 
+## Licenses
 
+This project is licensed under the [MIT License](/LICENSE).
+
+This project also partially contains code derived or copied from the following projects:
+
+- [whisper.cpp (MIT)](https://github.com/ggerganov/whisper.cpp)
+
+Licenses of these projects are listed in [THIRD_PARTY_LICENSES](/THIRD_PARTY_LICENSES).
