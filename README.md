@@ -64,6 +64,6 @@ This project is licensed under the [MIT License](/LICENSE).
 
 This project also partially contains code derived or copied from the following projects:
 
-- [whisper.cpp (MIT)](https://github.com/ggerganov/whisper.cpp)
+- [whisper.cpp (MIT)](https://github.com/ggerganov/whisper.cpp/blob/v1.4.2/LICENSE)
 
 Licenses of these projects are listed in [THIRD_PARTY_LICENSES](/THIRD_PARTY_LICENSES).
